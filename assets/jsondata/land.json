@@ -1,0 +1,42 @@
+{
+  "Quizes": [
+    {
+        "Quizid": 1,
+        "QuizTitle": "Where is this location ??",
+        "QuizCategory": "Land",
+        "QuizPicture":"GreenRivercanyon.jpg",
+        "QuizHint":"Its in eastern utah",
+        "QuizAns":"Green River canyon",
+        "QuizDescription":"This sector of the Green River canyon in eastern Utah is known as Bowknot Bend because of the way the river doubles back on itself. The loop carries river rafters 14.5 kilometers (9 miles) before bringing them back to nearly the same point they started from—though on the other side of a low, narrow saddle (image center).In this photograph taken by an astronaut on the International Space Station, the Green River appears dark because it lies in deep shadow, 300 meters (1,000 feet) below the surrounding landscape. The yellow-tinged cliffs that face the rising sun give a sense of the steep canyon walls. The straight white line across the scene is the contrail from a jet liner that passed over Bowknot Bend. "
+    },
+    {
+      "Quizid": 2,
+        "QuizTitle": "Where is this system situated ?",
+        "QuizCategory": "Land",
+        "QuizPicture":"California.jpg",
+        "QuizHint":"the three towers and surrounding arrays of mirrors stand just outside Mojave National Preserve, a few kilometers from the Nevada border",
+        "QuizAns":"California",
+        "QuizDescription":"On December 25, 2013, the Operational Land Imager (OLI) on the Landsat 8 satellite acquired this natural-color image of Ivanpah Solar Electric Generating System in California. The three towers and surrounding arrays of mirrors stand just outside Mojave National Preserve, a few kilometers from the Nevada border and 65 kilometers (40 miles) from Las Vegas.The new solar power plant sits within an alluvial fan in Ivanpah Valley on public land that sees 330 to 350 sunny days per year. Operators say they can generate up to 377 megawatts of electricity, enough to power more than 140,000 homes. After four years of construction, the power station officially opened in February 2014."
+    },
+    {
+      "Quizid": 3,
+        "QuizTitle": "In which country, this volcano is situated ?",
+        "QuizCategory": "Land",
+        "QuizPicture":"indonesia.jpg",
+        "QuizHint":"No hints",
+        "QuizAns":"Indonesia",
+        "QuizDescription":"Activity at Indonesia’s Sinabung Volcano has slowed since the intense explosions of January 2014. In early March, thousands of residents returned to villages near the volcano. The eruption is less violent now, but it is not over.Landsat collected images of an ash plume and pyroclastic flow from Sinabung on March 6, 2014. The top, natural-color image shows the volcano, ash plume, and volcanic debris surrounded by farms and forest."
+    },
+    {
+        "Quizid": 4,
+        "QuizTitle": "What is this desert called ?",
+        "QuizCategory": "Land",
+        "QuizPicture":"iran.jpg",
+        "QuizHint":"Its in Iran",
+        "QuizAns":"Kavir Desert",
+        "QuizDescription":"As the astronauts on the International Space Station passed over the deserts of central Iran recently, they were greeted by this striking pattern of parallel lines and sweeping curves. The lack of soil and vegetation in the Kavir desert (Dasht-e Kavir) allows the geological structure of the rocks to appear quite clearly. The patterns result from the gentle folding of numerous, thin layers of rock. Later erosion by wind and water cut a flat surface across the dark- and light-colored folds, not only exposing hundreds of layers but also showing the shapes of the folds. The pattern has been likened to the layers of a sliced onion."
+    }
+    
+  ]
+} 
+  

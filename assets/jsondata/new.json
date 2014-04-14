@@ -1,0 +1,242 @@
+{
+  "Quizes": [
+    {
+        "Quizid": 1,
+        "QuizTitle": "Where is this location ??",
+        "QuizCategory": "Land",
+        "QuizPicture":"GreenRivercanyon.jpg",
+        "QuizHint":"Its in eastern utah",
+        "QuizAns":"Green River canyon",
+        "QuizOp1":"ex1",
+        "QuizOp2":"example2",
+        "QuizOp3":"example3",
+        "QuizDescription":"This sector of the Green River canyon in eastern Utah is known as Bowknot Bend because of the way the river doubles back on itself. The loop carries river rafters 14.5 kilometers (9 miles) before bringing them back to nearly the same point they started from—though on the other side of a low, narrow saddle (image center).In this photograph taken by an astronaut on the International Space Station, the Green River appears dark because it lies in deep shadow, 300 meters (1,000 feet) below the surrounding landscape. The yellow-tinged cliffs that face the rising sun give a sense of the steep canyon walls. The straight white line across the scene is the contrail from a jet liner that passed over Bowknot Bend. "
+    },
+    {
+      "Quizid": 2,
+        "QuizTitle": "Where is this system situated ?",
+        "QuizCategory": "Land",
+        "QuizPicture":"California.jpg",
+        "QuizHint":"the three towers and surrounding arrays of mirrors stand just outside Mojave National Preserve, a few kilometers from the Nevada border",
+        "QuizAns":"California",
+        "QuizOp1":"ex1",
+        "QuizOp2":"example2",
+        "QuizOp3":"example3",
+        "QuizDescription":"On December 25, 2013, the Operational Land Imager (OLI) on the Landsat 8 satellite acquired this natural-color image of Ivanpah Solar Electric Generating System in California. The three towers and surrounding arrays of mirrors stand just outside Mojave National Preserve, a few kilometers from the Nevada border and 65 kilometers (40 miles) from Las Vegas.The new solar power plant sits within an alluvial fan in Ivanpah Valley on public land that sees 330 to 350 sunny days per year. Operators say they can generate up to 377 megawatts of electricity, enough to power more than 140,000 homes. After four years of construction, the power station officially opened in February 2014."
+    },
+    {
+      "Quizid": 3,
+        "QuizTitle": "In which country, this volcano is situated ?",
+        "QuizCategory": "Land",
+        "QuizPicture":"indonesia.jpg",
+        "QuizHint":"No hints",
+        "QuizAns":"Indonesia",
+        "QuizOp1":"ex1",
+        "QuizOp2":"example2",
+        "QuizOp3":"example3",
+        "QuizDescription":"Activity at Indonesia’s Sinabung Volcano has slowed since the intense explosions of January 2014. In early March, thousands of residents returned to villages near the volcano. The eruption is less violent now, but it is not over.Landsat collected images of an ash plume and pyroclastic flow from Sinabung on March 6, 2014. The top, natural-color image shows the volcano, ash plume, and volcanic debris surrounded by farms and forest."
+    },
+    {
+        "Quizid": 4,
+        "QuizTitle": "What is this desert called ?",
+        "QuizCategory": "Land",
+        "QuizPicture":"iran.jpg",
+        "QuizHint":"Its in Iran",
+        "QuizAns":"Kavir Desert",
+        "QuizDescription":"As the astronauts on the International Space Station passed over the deserts of central Iran recently, they were greeted by this striking pattern of parallel lines and sweeping curves. The lack of soil and vegetation in the Kavir desert (Dasht-e Kavir) allows the geological structure of the rocks to appear quite clearly. The patterns result from the gentle folding of numerous, thin layers of rock. Later erosion by wind and water cut a flat surface across the dark- and light-colored folds, not only exposing hundreds of layers but also showing the shapes of the folds. The pattern has been likened to the layers of a sliced onion."
+    }
+     {
+        "Quizid": 5,
+        "QuizTitle": "What is the island called?",
+        "QuizCategory": "Lake ice",
+        "QuizPicture":"lake ice.jpg",
+        "QuizHint":"Its in Washington",
+        "QuizAns":"Lake Michigan’s Washington Island ",
+        "QuizOp1":"Green Bay, Wisconsin",
+        "QuizOp2":"Lake Baikal",
+        "QuizOp3":"Frozen Lake Erie",
+        "QuizDescription":"Snow-covered fields appear as geometric patterns.The island is 9 km long (5.6 miles).White coastal ice hugs the shoreline and connects Washington Island with Detroit Island and Rock Island. "
+   } 
+      {
+        "Quizid": 6,
+        "QuizTitle": "In which country, this lake is situated?",
+        "QuizCategory": "Lake",
+        "QuizPicture":"Chilika Lake.jpg",
+        "QuizHint":"one of the largest lake in the world ",
+        "QuizAns":"Southeastern India ",
+        "QuizOp1":"Iran",
+        "QuizOp2":"Indonesia",
+        "QuizOp3":"California",
+        "QuizDescription":"Chilika Lake is one of the largest lake in the world.Chilika is best known as a mecca for birds, which are attracted by the hundreds of species of fish and other aquatic life. "
+   } 
+{
+        "Quizid": 7,
+        "QuizTitle": "In which year the opposite attract happened in U.S.A and Alaska?",
+        "QuizCategory": "Land Surface Temperature",
+        "QuizPicture":"Opposites Attract.jpg",
+        "QuizHint":"It was happened in December ",
+        "QuizAns":"2013",
+        "QuizOp1":"2011",
+        "QuizOp2":"1999",
+        "QuizOp3":"2002",
+        "QuizDescription":"While the continental U.S. shivered through an abnormally cold spell,Alaska experienced record-breaking heat. Both extremes were caused by an unusual kink in the northern hemisphere’s polar jet stream, which caused frigid Arctic air to move south and warm air to head north. "
+   } 
+{
+        "Quizid": 8,
+        "QuizTitle": "In which place Tabun Khara Obo ancient crater lies?",
+        "QuizCategory": "Land",
+        "QuizPicture":"Tabun Khara Obo.jpg",
+        "QuizHint":"Its halfway between Ulaanbaatar and Beijing ",
+        "QuizAns":"Southeastern Mongolia",
+        "QuizOp1":"West Mongolia",
+        "QuizOp2":"North MOngolia",
+        "QuizOp3":"South Mongolia",
+        "QuizDescription":"Tabun Khara Obo was first identified as a probable impact crater in 1976, although confirmation of the hypothesis only occurred decades later.The crater’s rim rises some 20 to 30 meters (65 to 100 feet) above the crater bottom. The crater occurs on a block of Proterzoic rock more than 600 million years old "
+   } 
+{
+        "Quizid": 9,
+        "QuizTitle": "Santorini Volcano lies in which sea?",
+        "QuizCategory": "Volcanoes",
+        "QuizPicture":"Santorini Volcano.jpg",
+        "QuizHint":"no hints",
+        "QuizAns":"Aegean Sea",
+        "QuizOp1":"Euboea",
+        "QuizOp2":"Kythira",
+        "QuizOp3":" Ionian",
+        "QuizDescription":"The eruption of Santorini in 1650 B.C. was one of the largest in the last 10,000 years. About 30 cubic kilometers of magma was erupted, forming a cloud of volcanic ash and rock (called a plinian column) 36 km high. The removal of such a large volume of magma from underneath the volcano caused it to collapse, producing a large crater (a caldera). Ash fell over a large area of the eastern Mediterranean.  "
+   } 
+{
+        "Quizid": 10,
+        "QuizTitle": "In which country, this volcano is situated?",
+        "QuizCategory": "land",
+        "QuizPicture":"Dense Plume.jpg",
+        "QuizHint":"NO hints ",
+        "QuizAns":"Japan",
+        "QuizOp1":"Indonesia",
+        "QuizOp2":"Mongolia",
+        "QuizOp3":"Iran",
+        "QuizDescription":"Sakura-jima volcano emitted a dense plume of ash over an island named Kyushu on November 23, 2013. Sakura-jima explodes several hundred times each year. These eruptions are usually small, but the larger eruptions can generate ash plumes that rise 3,800 meters (12,000 feet) or more above the 1,040-meter (3,410-foot) summit. "
+   }
+{
+        "Quizid":11 ,
+        "QuizTitle": "In which country Kangchenjunga situated?",
+        "QuizCategory": "Land",
+        "QuizPicture":"Kangchenjunga.jpg",
+        "QuizHint":"The third tallest peak in the world",
+        "QuizAns":"Between Nepal and India",
+        "QuizOp1":"Between Nepal and Bangladesh",
+        "QuizOp2":"Between India and Bangladesh",
+        "QuizOp3":"Between Nepal and Bhutan ",
+        "QuizDescription":"  "
+   } 
+{
+        "Quizid":12 ,
+        "QuizTitle": "In which year the Alaskan stratovolcano Mount Redoubt started a succession of eruptions?",
+        "QuizCategory": "Land",
+        "QuizPicture":"Mount Redoubt.jpg",
+        "QuizHint":"no hints",
+        "QuizAns":"March 22, 2009",
+        "QuizOp1":"March 22,2010",
+        "QuizOp2":"March 22,2011",
+        "QuizOp3":"March 22,2012",
+        "QuizDescription":"Mount Redoubt started a succession of eruptions. The volcano is covered in snow and spewing water vapor and volcanic gas into the air.   "
+   } 
+{
+        "Quizid":13 ,
+        "QuizTitle": "In which country Gasherbrum I situated?",
+        "QuizCategory": "Land",
+        "QuizPicture":"Gasherbrum I.jpg",
+        "QuizHint":"It is situated along the same horseshoe-shaped ridge as Gasherbrum II.",
+        "QuizAns":" Border of Pakistan and China",
+        "QuizOp1":"Border of Pakistan",
+        "QuizOp2":"Border of China",
+        "QuizOp3":"Border of Nepal ",
+        "QuizDescription":"An American team made the first ascent in 1958, following a ridge on the southwest face."
+   }  
+{
+        "Quizid":14 ,
+        "QuizTitle": "What is this desert called? ",
+        "QuizCategory": "Land",
+        "QuizPicture":"Thar Desert.jpg",
+        "QuizHint":"Its in the border between northwestern India and eastern Pakistan",
+        "QuizAns":"Great Indian Desert",
+        "QuizOp1":"Great Pakistan Desert",
+        "QuizOp2":"Great Iran Desert",
+        "QuizOp3":"Great Indonesian Desert",
+        "QuizDescription":"This desert supports a largely pastoral economy, since not much grows in the broken rocks and sand dunes but scrub vegetation. Bordered on the west by the deep green Indus and Sutlej river valleys and the thin bright green Aravalli Range to the southeast, the region is remote and sparsely populated.  "
+   }  
+{
+        "Quizid":15 ,
+        "QuizTitle": "IN which year a late winter storm brought strong winds and rain to the Arabian Peninsula?",
+        "QuizCategory": "Weather",
+        "QuizPicture":"Saudi Arabia.jpg",
+        "QuizHint":"It happened on February",
+        "QuizAns":"February 2009",
+        "QuizOp1":"February 2007",
+        "QuizOp2":"February 2008",
+        "QuizOp3":"February 2011",
+        "QuizDescription":"The storm blew dense plumes of dust east across Saudi Arabia on February 26.The dust appears to have originated at the base of Hurrat Rahat, Saudi Arabia’s largest lava field. The dust is coming from paler patches of exposed soil along the dark-colored front of the lava field."
+   }
+{
+        "Quizid":16 ,
+        "QuizTitle": "How long the Mount Merapi volcano released ash and volcanic gas, rumbled, and generated minor earthquakes?",
+        "QuizCategory": "Weather",
+        "QuizPicture":" Mount Merapi.jpg",
+        "QuizHint":"Happened March 27,2014",
+        "QuizAns":"Four Minutes",
+        "QuizOp1":"Five Minutes",
+        "QuizOp2":"Six Minutes",
+        "QuizOp3":"Two MInutes ",
+        "QuizDescription":"Indonesia’s Mount Merapi exhibited a short-lived increase in activity on March 27, 2014. For few minutes, the volcano released ash and volcanic gas, rumbled, and generated minor earthquakes.   "
+   } 
+{
+        "Quizid":17 ,
+        "QuizTitle": "In which Country Ulawun volcanoe situated?",
+        "QuizCategory": "Land",
+        "QuizPicture":"Ulawun.jpg",
+        "QuizHint":"New Britain",
+        "QuizAns":"Papua New Guinea",
+        "QuizOp1":"Indonesia",
+        "QuizOp2":"Japan",
+        "QuizOp3":"Korea",
+        "QuizDescription":"Its the tallest, with a summit elevation of 2,334 meters (7,657 feet).This astronaut photograph was taken during the most recent phase of volcanic activity at Ulawun. A plume of white steam and ash extends from the summit crater of the stratovolcano towards the northwes"
+   } 
+{
+        "Quizid":18 ,
+        "QuizTitle": "In which coastline Baltimore situated?",
+        "QuizCategory": "Land",
+        "QuizPicture":"night view.jpg",
+        "QuizHint":" It is the largest seaport along this part of the coast",
+        "QuizAns":"Mid-Atlantic coastline ",
+        "QuizOp1":"U.S.A coastline",
+        "QuizOp2":"Papua New Guinea coastline",
+        "QuizOp3":"Japan coastline",
+        "QuizDescription":"It is the largest seaport along this part of the coast, and the subject of this astronaut photograph from the International Space Station. Like many large U.S. metropolitan areas, the most brightly lit areas correspond to the highest density of buildings and typically indicates the urban core—including, in this case, the “Inner Harbor” tourist and commercial area."
+   } 
+{
+        "Quizid":19 ,
+        "QuizTitle": "In which city Bazman volcano situated?",
+        "QuizCategory": "Land",
+        "QuizPicture":"Bazman Volcano.jpg",
+        "QuizHint":"Bazman volcano is located in a remote region,within the Bazman Protected Area of Sistan and Baluchestan Provinces.",
+        "QuizAns":"Iran",
+        "QuizOp1":"Korea",
+        "QuizOp2":"Japan",
+        "QuizOp3":"India ",
+        "QuizDescription":"The volcano has the classic cone shape of a stratovolcano, it is also heavily dissected by channels that extend downwards from summit."
+   } 
+{
+        "Quizid":20 ,
+        "QuizTitle": "Where frozen lake sharpe is situated?",
+        "QuizCategory": "Land",
+        "QuizPicture":"Frozen Lake Sharpe.jpg",
+        "QuizHint":"It is the longest river in North America.",
+        "QuizAns":"South Dakota",
+        "QuizOp1":"Toronto",
+        "QuizOp2":"Chicago",
+        "QuizOp3":"Montreal",
+        "QuizDescription":"The river does not follow a straight southeasterly course along this distance, but includes many meander bends such as the one in this astronaut photograph from the International Space Station. This particular bend is occupied by Lake Sharpe. "
+   }                                                                                                                                                                                                                                            
+  ]
+} 
+  
